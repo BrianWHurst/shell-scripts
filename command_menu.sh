@@ -2,7 +2,6 @@
 ############################################################################
 # Brian Hurst
 # 05/31/2016
-#- CS140U-
 # This program creates a menu with user controls.
 # it includes checks to make sure that the user inputs the data properly
 #############################################################################
