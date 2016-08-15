@@ -4,9 +4,9 @@
 
 # Variables:
 # address up remote host for ping test.
-RIPADDR=192.168.1.169
+RIPADDR=192.168.1.XXX
 # Remote source directory 
-RHOST=192.168.1.169:/home/
+RHOST=192.168.1.XXX:/home/
 # Destination directory is $HOME by default.
 DESTDIR="$HOME/REMOTE_BACKUP"
 
