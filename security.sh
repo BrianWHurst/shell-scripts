@@ -68,8 +68,8 @@ exec 1> "$LOGDIR"/"$LOGFILE" 2>&1
 # (commented out for the sake of testing.)
 until 0
 do
-#faillog -a | awk '{print [}'
-#if ($(! ! ) >= "1") ; then                    
+    #faillog -a | awk '{print [}'
+    #if ($(! ! ) >= "1") ; then                    
     PC_info
     THEFT_LOCATE
     sleep 1
@@ -78,8 +78,8 @@ do
     sleep 1
     CLEAN
     break
-#else 
-  # sleep 1 ; exit 0
-#fi
+    #else 
+    # sleep 1 ; exit 0
+    #fi
 done
 
